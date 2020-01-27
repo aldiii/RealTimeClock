@@ -1,0 +1,8 @@
+.clock {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+}
+
+.clock span {
+  margin-right: 10px;
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import "./clock.css";
 
 function format(number){
     return number<10 ? "0"+number : number

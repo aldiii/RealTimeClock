@@ -1,5 +1,5 @@
 import RealTimeClock from "./RealTimeClock";
-
+import "./app.css";
 
 function App() {
   return (
